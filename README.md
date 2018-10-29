@@ -11,5 +11,5 @@ Features:
 - 2D Physics (wip)
 - Keyboard Input
 
-![alt text](https://imgur.com/a358fe7f-b49b-4bc2-b35d-87701e847192)
+![alt text](https://i.imgur.com/KzyG9MW.gif)
 https://twitter.com/i/status/1047396209046908930
